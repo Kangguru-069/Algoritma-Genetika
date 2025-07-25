@@ -1,0 +1,18 @@
+clear
+clc
+
+Subject = 'Satria Baja Hitam'
+
+subject length = length(Subject);
+
+new_data = create_data(sudbject_length);
+value = calculate_value(new_data,subject);
+
+% Function variabel
+variabel = struct();
+
+variabel(1).data = new_data
+variabel(2).data = new_data
+variabel(3).data = new_data
+variabel(4).data = new_data
+variabel(5).data = new_data
