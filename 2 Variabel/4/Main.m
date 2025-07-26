@@ -6,7 +6,7 @@ Subject = 'Satria Baja Hitam'
 subject_length = length(Subject);
 
 % Variabel Length
-variabel length = 10;
+variabel_length = 10;
 
 % Function variabel
 variabel = struct();
