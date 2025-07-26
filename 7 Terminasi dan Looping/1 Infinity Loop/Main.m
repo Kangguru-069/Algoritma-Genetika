@@ -3,8 +3,8 @@ clc
 
 Subject = 'Satria Baja Hitam'
 
-subject length = length(Subject);
-variabel length = 10;
+subject_length = length(Subject);
+variabel_length = 10;
 range_mutasi = 0.5;
 
 variabel = create_variabel(Subject,variabel_length)
