@@ -5,7 +5,8 @@ Subject = 'Satria Baja Hitam'
 
 subject_length = length(Subject);
 variabel_length = 10;
-range_mutasi = 0.5;
+range_mutasi = 0.5; %SLOW
+%range_mutasi = 0.1; %FAST
 
 variabel = create_variabel(Subject,variabel_length)
 isLooping = true;
