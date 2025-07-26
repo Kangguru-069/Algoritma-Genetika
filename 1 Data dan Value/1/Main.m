@@ -4,7 +4,7 @@ clc
 Subject = 'Satria Baja Hitam'
 
 % Representasi Data
-subject length = length(Subject);
+subject_length = length(Subject);
 random_number = randi([32,126],1,subject_length);
 data = char(random_number);
 
