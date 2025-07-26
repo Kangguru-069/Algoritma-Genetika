@@ -3,7 +3,7 @@ clc
 
 Subject = 'Satria Baja Hitam'
 
-subject length = length(Subject);
+subject_length = length(Subject);
 
 % Variabel Length
 variabel length = 10;
